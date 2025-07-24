@@ -12,18 +12,9 @@ Here you'll find notes, examples, exercises, and experiments structured by roadm
 
 ## Structure
 
-The repository is organized according to the main topics of the roadmap:
+The repository is organized according to the main topics:
 
-- `learn-the-basics/` - Go fundamentals and syntax
-- `going-deeper/` - Go Modules, Goroutines, channels, pointers and concurrency patterns
-- `building-clis/` - Cobra, urfave/cli
-- `orms/`
-- `web/` 
-- `logging/`
-- `real-time-communication/`
-- `api-clients/`
-- `testing/`
-- `tools-for-microservices/`
+- `go-developer-roadmap`
 
 ## 🛠 Technologies
 
